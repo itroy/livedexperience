@@ -34,6 +34,27 @@ Market services, increase credibility & grow database / networks.
 ## Technology
 - Basic development stack using **Webpack**, **React**, **SASS**, **Javascript (ES6)**and **HTML5**.
 
+## React-Create-App
+
+Inside the site's directory several commands may be run:
+
+  ```npm start```
+    Starts the development server.
+
+  ```npm run build```
+    Bundles the app into static files for production.
+
+  ```npm test```
+    Starts the test runner.
+
+  ```npm run eject```
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+It's suggested to begin by typing:
+
+```npm start```
+
 
 # Content
 
